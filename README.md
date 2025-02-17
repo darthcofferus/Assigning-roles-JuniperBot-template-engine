@@ -11,7 +11,7 @@
 Вы можете связаться со мной здесь или в [Discord](https://discordapp.com/users/1084108709761908817).
 # EN
 This is a script for the template engine [JuniperBot](https://juniper.bot ), which creates a menu with buttons that the participant can click on to assign themselves the appropriate roles or delete them. Any number of roles (1+) is supported. It is possible to switch the assigning modes (single/multiple). When importing/manually installing, you need to replace the UUID of the action and insert your list of role IDs. For more information, read the instructions in the code.
-### Importing a command
+### Importing the command
 Follow [this link](https://juniper.bot/command/845c76d3-d592-4eb8-a6a5-386e0205904f ) and perform the necessary actions. Follow the instructions inside the code to configure the command to work on your server.
 ### Manual installation
 Copy [this code](https://github.com/darthcofferus/Assigning-roles-JuniperBot-template-engine/blob/main/src/EN.md) then, on your server, in the Juniper dashboard, go to **Commands** -> **Custom Commands**. Next, click the **Add new command** button, go to the **Action** section and paste the code into the **Embed Content Template** (recommended for a beautiful appearance) or into the **Message Content Template**. Follow the instructions inside the code to configure the command to work on your server.
