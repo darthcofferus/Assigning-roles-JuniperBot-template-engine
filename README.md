@@ -16,6 +16,6 @@ Follow [this link](https://juniper.bot/command/845c76d3-d592-4eb8-a6a5-386e02059
 ### Manual installation
 Copy [this code](https://github.com/darthcofferus/Assigning-roles-JuniperBot-template-engine/blob/main/src/EN.md) then, on your server, in the Juniper dashboard, go to **Commands** -> **Custom Commands**. Next, click the **Add new command** button, go to the **Action** section and paste the code into the **Embed Content Template** (recommended for a beautiful appearance) or into the **Message Content Template**. Follow the instructions inside the code to configure the command to work on your server.
 ## Screenshot
-![Screenshot](https://github.com/user-attachments/assets/9eef283a-2bc1-47c6-95c3-c15b7e58f78a)
+![Screenshot](https://github.com/user-attachments/assets/58a523b1-18d7-4781-9b3a-1ff25ab189ae)
 ## Communication with the developer
 You can contact me here or at [Discord](https://discordapp.com/users/1084108709761908817 ).
